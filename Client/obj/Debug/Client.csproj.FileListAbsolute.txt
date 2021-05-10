@@ -1,0 +1,39 @@
+D:\HelloWCF MODULES\Client\bin\Debug\Client.exe
+D:\HelloWCF MODULES\Client\bin\Debug\Client.pdb
+D:\HelloWCF MODULES\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\HelloWCF MODULES\Client\obj\Debug\Client.exe
+D:\HelloWCF MODULES\Client\obj\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\Client\obj\Debug\Client.exe
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\Client\obj\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\Client\bin\Debug\Client.exe
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\Client\bin\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.pdb
+D:\WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.exe
+D:\WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.pdb
+D:\WCF\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.exe
+D:\WCF\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.pdb
+D:\WCF\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.exe
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\bin\Debug\Client.pdb
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.exe
+C:\Users\yuliy\Desktop\001_INTRO\000_HelloWCF\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\Nowy folder (3)\000_HelloWCF\Client\obj\Debug\Client.pdb
