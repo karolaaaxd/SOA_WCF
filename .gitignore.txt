@@ -1,5 +1,0 @@
-SOA&WCF/Client/bin/Debug
-SOA&WCF/Client/bin/Release
-SOA&WCF/Client/obj/Debug
-SOA&WCF/Client/obj/Release
-.vs
